@@ -30,9 +30,6 @@ This Power BI dashboard analyzes Starbucks beverage sales to provide insights in
 ![Starbucks Dashboard](./assets/Dashboard.png)
 
 ## 👨‍💻 Author
-**Sagar Patil**
-
-## 👨‍💻 Author
 
 **Sagar Patil**
 
